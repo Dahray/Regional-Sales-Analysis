@@ -1,2 +1,2 @@
-# Sales-Report-Data-
+# Sales-Report-Data
 Analysis On Detailed Sales Report
